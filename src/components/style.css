@@ -148,5 +148,6 @@
 .empty-display{
   text-align: center;
   font-weight: bolder;
-  padding-left:80px;
+  padding-left:120px;
+  color: gray;
 }
