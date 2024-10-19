@@ -146,8 +146,11 @@
   visibility: visible;
 }
 .empty-display{
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
   font-weight: bolder;
-  padding-left:120px;
+/*   padding-left:120px; */
   color: gray;
 }
