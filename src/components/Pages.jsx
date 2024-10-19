@@ -83,8 +83,7 @@ const Pages = () => {
           ) : (
            
             <p className='empty-display'>
-              The provided code includes a search bar that allows users to enter a query to search for images. When the user submits the query, the code fetches images related to the search query from the Unsplash API. The fetched images are displayed on the page in a grid format. When the user hovers over an image, 
-              the image's description and created date & time is shown in a tooltip-like box. This allows users to easily find and view images based on their search queries.
+            Search for a images.
             </p>
           )}
         </div>
